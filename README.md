@@ -6,7 +6,7 @@ This Excel project consists of 3 primary objects, each containing its own set of
 such as Column creation, data sorting/filtering, pivot tables, Pivot charts, and slicers.
 
 Objective 1: Preparing the data for analysis
-  -The data was first assessed to familiarize myself with the various fields. Filters were then set in place for each 
+  The data was first assessed to familiarize myself with the various fields. Filters were then set in place for each 
   column to allow for proper sorting, and to make the raw data easier to work with.
 
   -A new column was first added to the calculation portion of the dataset to represent REVENUE [Price * Quantity]. 
@@ -17,7 +17,7 @@ Objective 1: Preparing the data for analysis
   and added them to the calculations portion of the data set. Filters were then added to the calculated fields, as well as a distinct blue color to distinguish them from the raw data.
 
 Objective 2: Exploration of Data/Pivot Tables
-  - In objective 2, the data is used to create pivot tables on a new sheet labeled "Dashboard" that will help showcase revenue by month, number of transactions
+ In objective 2, the data is used to create pivot tables on a new sheet labeled "Dashboard" that will help showcase revenue by month, number of transactions
     by day of week/hour of day, and number of transactions and revenue by product type/category
 
     -Transactions by product category have been sorted descending by transactions, while transactions and revenue by product type
@@ -30,9 +30,9 @@ Objective 2: Exploration of Data/Pivot Tables
 
 
 Objective 3: Dynamic Dashboard
-  -In objective 3, the previously created pivot tables are then used to create the appropriate pivot charts that will make up our dynamic dashboard.
+  In objective 3, the previously created pivot tables are then used to create the appropriate pivot charts that will make up our dynamic dashboard.
 
-  -First, revenue by month was used to create a line chart, and transactions by day of week/hour of the day were represented as column charts
+  -First, revenue by month was used to create a line chart, and transactions by day of week/hour of the day were represented as column charts,
   and transactions by product category were displayed as a bar chart respectively. These charts were then assembled into a cohesive
   layout, including space to display the top 15 product types through the means of...
 
