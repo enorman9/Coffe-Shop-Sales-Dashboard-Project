@@ -17,9 +17,9 @@ Objective 1: Preparing the data for analysis
   and added them to the calculations portion of the data set. Filters were then added to the calculated fields, as well as a distinct blue color to distinguish them from the raw data.
 
 Objective 2: Exploration of Data/Pivot Tables
- In objective 2, the data is used to create pivot tables on a new sheet labeled "Dashboard" that will help showcase revenue by month, number of transactions
+   In objective 2, the data is used to create pivot tables on a new sheet labeled "Dashboard" that will help showcase revenue by month, number of transactions
     by day of week/hour of day, and number of transactions and revenue by product type/category
-
+    
     -Transactions by product category have been sorted descending by transactions, while transactions and revenue by product type
     have been sorted descending and filtered to the top 15 transactions.
 
